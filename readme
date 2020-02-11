@@ -1,0 +1,12 @@
+需要安装一下环境:
+
+PYTHON环境：
+    python3.7+
+    pip3 install pymysql
+    pip3 install flask
+    pip3 install flask-sqlalchemy
+
+MYSQL环境：
+username=test
+password=123456
+database=pump

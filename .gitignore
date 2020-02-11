@@ -1,0 +1,32 @@
+# private ignore
+app/settings.py
+
+# kdiff3 ignore
+*.orig
+
+# maven ignore
+/target/
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+
+# python
+*.pyc
