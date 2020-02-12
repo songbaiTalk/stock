@@ -7,7 +7,7 @@ app = create_app(env)
 
 if __name__ == '__main__':
     # print(app.url_map) # 打印显示url路由
-    app.run(host='0.0.0.0', port=5000)
+    app.run()
 
 
 '''

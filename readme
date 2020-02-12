@@ -7,6 +7,3 @@ PYTHON环境：
     pip3 install flask-sqlalchemy
 
 MYSQL环境：
-username=test
-password=123456
-database=pump
